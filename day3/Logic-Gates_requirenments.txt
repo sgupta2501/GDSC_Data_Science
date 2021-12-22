@@ -1,0 +1,16 @@
+Topic: Logic gates using neural networks
+Functions to be defined: main(), logic gates
+__________________________________________________________________________________________________
+To execute the program:
+    Run the program in google colab
+__________________________________________________________________________________________________            
+Gates to be considered
+----------------
+OR
+NOT
+NAND
+NOR
+XOR
+XNOR
+________________________________________________________________________________________________________
+
